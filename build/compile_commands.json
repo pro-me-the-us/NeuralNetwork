@@ -1,0 +1,44 @@
+[
+{
+  "directory": "/home/pro-me-the-us/Projects/NeuralNetwork/build",
+  "command": "/usr/bin/g++    -std=c++14 -g -o CMakeFiles/NeuralNetwork.dir/src/main.cpp.o -c /home/pro-me-the-us/Projects/NeuralNetwork/src/main.cpp",
+  "file": "/home/pro-me-the-us/Projects/NeuralNetwork/src/main.cpp",
+  "output": "CMakeFiles/NeuralNetwork.dir/src/main.cpp.o"
+},
+{
+  "directory": "/home/pro-me-the-us/Projects/NeuralNetwork/build",
+  "command": "/usr/bin/g++    -std=c++14 -g -o CMakeFiles/NeuralNetwork.dir/src/Neuron.cpp.o -c /home/pro-me-the-us/Projects/NeuralNetwork/src/Neuron.cpp",
+  "file": "/home/pro-me-the-us/Projects/NeuralNetwork/src/Neuron.cpp",
+  "output": "CMakeFiles/NeuralNetwork.dir/src/Neuron.cpp.o"
+},
+{
+  "directory": "/home/pro-me-the-us/Projects/NeuralNetwork/build",
+  "command": "/usr/bin/g++    -std=c++14 -g -o CMakeFiles/NeuralNetwork.dir/src/Matrix.cpp.o -c /home/pro-me-the-us/Projects/NeuralNetwork/src/Matrix.cpp",
+  "file": "/home/pro-me-the-us/Projects/NeuralNetwork/src/Matrix.cpp",
+  "output": "CMakeFiles/NeuralNetwork.dir/src/Matrix.cpp.o"
+},
+{
+  "directory": "/home/pro-me-the-us/Projects/NeuralNetwork/build",
+  "command": "/usr/bin/g++    -std=c++14 -g -o CMakeFiles/NeuralNetwork.dir/src/Layer.cpp.o -c /home/pro-me-the-us/Projects/NeuralNetwork/src/Layer.cpp",
+  "file": "/home/pro-me-the-us/Projects/NeuralNetwork/src/Layer.cpp",
+  "output": "CMakeFiles/NeuralNetwork.dir/src/Layer.cpp.o"
+},
+{
+  "directory": "/home/pro-me-the-us/Projects/NeuralNetwork/build",
+  "command": "/usr/bin/g++    -std=c++14 -g -o CMakeFiles/NeuralNetwork.dir/src/utils/MatrixToVector.cpp.o -c /home/pro-me-the-us/Projects/NeuralNetwork/src/utils/MatrixToVector.cpp",
+  "file": "/home/pro-me-the-us/Projects/NeuralNetwork/src/utils/MatrixToVector.cpp",
+  "output": "CMakeFiles/NeuralNetwork.dir/src/utils/MatrixToVector.cpp.o"
+},
+{
+  "directory": "/home/pro-me-the-us/Projects/NeuralNetwork/build",
+  "command": "/usr/bin/g++    -std=c++14 -g -o CMakeFiles/NeuralNetwork.dir/src/utils/MultiplyMatrix.cpp.o -c /home/pro-me-the-us/Projects/NeuralNetwork/src/utils/MultiplyMatrix.cpp",
+  "file": "/home/pro-me-the-us/Projects/NeuralNetwork/src/utils/MultiplyMatrix.cpp",
+  "output": "CMakeFiles/NeuralNetwork.dir/src/utils/MultiplyMatrix.cpp.o"
+},
+{
+  "directory": "/home/pro-me-the-us/Projects/NeuralNetwork/build",
+  "command": "/usr/bin/g++    -std=c++14 -g -o CMakeFiles/NeuralNetwork.dir/src/NeuralNetwork.cpp.o -c /home/pro-me-the-us/Projects/NeuralNetwork/src/NeuralNetwork.cpp",
+  "file": "/home/pro-me-the-us/Projects/NeuralNetwork/src/NeuralNetwork.cpp",
+  "output": "CMakeFiles/NeuralNetwork.dir/src/NeuralNetwork.cpp.o"
+}
+]
